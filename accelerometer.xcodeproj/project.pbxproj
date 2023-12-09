@@ -13,6 +13,7 @@
 		E900D17F2B24D7A20006C8CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E900D17D2B24D7A20006C8CA /* Main.storyboard */; };
 		E900D1812B24D7A40006C8CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E900D1802B24D7A40006C8CA /* Assets.xcassets */; };
 		E900D1842B24D7A40006C8CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E900D1822B24D7A40006C8CA /* LaunchScreen.storyboard */; };
+		E900D1942B24DFB80006C8CA /* ShowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E900D1932B24DFB80006C8CA /* ShowViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E900D1802B24D7A40006C8CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E900D1832B24D7A40006C8CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E900D1852B24D7A40006C8CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E900D1932B24DFB80006C8CA /* ShowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E900D1772B24D7A20006C8CA /* AppDelegate.swift */,
 				E900D1792B24D7A20006C8CA /* SceneDelegate.swift */,
 				E900D17B2B24D7A20006C8CA /* ViewController.swift */,
+				E900D1932B24DFB80006C8CA /* ShowViewController.swift */,
 				E900D17D2B24D7A20006C8CA /* Main.storyboard */,
 				E900D1802B24D7A40006C8CA /* Assets.xcassets */,
 				E900D1822B24D7A40006C8CA /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				E900D17C2B24D7A20006C8CA /* ViewController.swift in Sources */,
 				E900D1782B24D7A20006C8CA /* AppDelegate.swift in Sources */,
 				E900D17A2B24D7A20006C8CA /* SceneDelegate.swift in Sources */,
+				E900D1942B24DFB80006C8CA /* ShowViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
